@@ -28,5 +28,5 @@ Click on a subject to view its information and resources.
 Tailwind CSS (included via CDN)
 
 # Contributing
-Contributions  @
+Contributions :   @hariprasad2512  
 
